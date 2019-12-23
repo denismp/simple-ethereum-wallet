@@ -1,0 +1,22 @@
+{
+  "name": "simple-ethereum-wallet",
+  "version": "1.0.0",
+  "description": "In this exercise, you shall implement a simple Ethereum wallet in JavaScript, using the Ethers.js library. The wallet will hold a single private key along with its associated Ethereum address.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denismp/simple-ethereum-wallet.git"
+  },
+  "author": "Denis Putnam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/denismp/simple-ethereum-wallet/issues"
+  },
+  "homepage": "https://github.com/denismp/simple-ethereum-wallet#readme",
+  "dependencies": {
+    "ethers": "^4.0.41"
+  }
+}
